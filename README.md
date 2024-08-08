@@ -45,9 +45,11 @@ Get practical tips and updates on cybersecurity at your [Benmilshtein.com](https
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></code>
 </div>
+<div align="center">
+	<code><img width="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b" alt="Digital Ocean" title="Digital Ocean"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali Linux" title="Kali Linux"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/f296f3e7-d7b0-49f7-85f7-234b8dcffdeb" alt="Coral.ai" title="Coral.ai"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberri Pi" title="Raspberri Pi"/></code>
+</div>
 
-## 📫 How to reach me
-- [My-Website](https://www.benmilshtein.com) 
-- [LinkedIn](https://www.linkedin.com/in/BenMilshtein)
-- [Twitter](https://twitter.com/BenMilshtein)
-- [GitHub](https://github.com/BenMilshtein)
+
