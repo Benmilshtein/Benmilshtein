@@ -1,10 +1,4 @@
-# Hi Friends! <img src="https://raw.githubusercontent.com/Benmilshtein/Benmilshtein/master/wave.gif" width="30px">
-
-My name is Ben Milshtein, I'm a passionate cybersecurity professional 🔐 dedicated to shaping the future of threat intelligence 🚀
-
-## &#x270d; Stay Ahead: Expert Cybersecurity Tips & Updates
-
-Get practical tips and updates on cybersecurity at your [Benmilshtein.com](https://benmilshtein.com/) go-to resource for staying secure
+# Hola <img src="https://raw.githubusercontent.com/Benmilshtein/Benmilshtein/master/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 <div align="center">
