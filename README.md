@@ -68,16 +68,6 @@
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
 </div>
 
-## 📊 github stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Benmilshtein&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benmilshtein&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph"/>
-</div>
-
 ---
 
 <div align="center">
