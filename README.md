@@ -15,7 +15,7 @@
 
 ## 🧭 about me
 
-- 🚀 Co-founder at **[Nestron AI](https://nestron.ai)** — building the future of AI-powered products
+- 🚀 Founder at **[Nestron AI](https://nestron.ai)** — building the future of AI-powered products
 - 🔐 Cybersecurity enthusiast — from cloud security to hands-on offensive tooling
 - ⚡ **Cursor Ambassador** — helping developers ship faster with AI
 - 🏢 Previously at **Microsoft**
